@@ -1,0 +1,17 @@
+{"CORRECT": {"name": "CORRECT", "role": "Mage", "items": {"10": {"name": "Tome", "magic_dmg": 0.81, "melee_dmg": 0.52, "attack_spd": 1.92, "descript": "Rendering the 1%...", "item_type": "weapon"}, "2": {"name": "Gaulet", "magic_dmg": 1.18, "melee_dmg": 1.56, "attack_spd": 1.82, "descript": "Linking magic smoke", "item_type": "weapon"}, "15": {"name": "Bow", "magic_dmg": 0.89, "melee_dmg": 1.92, "attack_spd": 1.13, "descript": "Hacking protocols...", "item_type": "weapon"}, "14": {"name": "Staff", "magic_dmg": 0.52, "melee_dmg": 0.55, "attack_spd": 0.67, "descript": "Instancing sensors", "item_type": "weapon"}, "18": {"name": "Stick", "magic_dmg": 1.81, "melee_dmg": 1.8, "attack_spd": 0.59, "descript": "Building the shmoo", "item_type": "weapon"}, "9": {"name": "Mace", "magic_dmg": 1.05, "melee_dmg": 0.52, "attack_spd": 1.0, "descript": "Cracking inductors", "item_type": "weapon"}, "1": {"name": "Mace", "magic_dmg": 1.24, "melee_dmg": 1.44, "attack_spd": 1.54, "descript": "Training kittens...", "item_type": "weapon"}, "11": {"name": "Gaulet", "magic_dmg": 1.39, "melee_dmg": 1.24, "attack_spd": 1.9, "descript": "Engaging warp drive", "item_type": "weapon"}, "12": {"name": "Helmet", "protection": 2.93, "attack_spd": 0.82, "durability": 1.45, "descript": "Stuffing inductors", "item_type": "armor"}}, "equipped": {"13": {"name": "Sigil", "magic_dmg": 0.03, "melee_dmg": 0.27, "attack_spd": 1.37, "descript": "Engaging steam...", "item_type": "weapon"}, "0": {"name": "Tome", "magic_dmg": 1.25, "melee_dmg": 0.01, "attack_spd": 1.64, "descript": "Hacking dank memes", "item_type": "weapon"}, 
+"17": {"name": "Helmet", "protection": 11.44, "attack_spd": 1.33, "durability": 0.37, "descript": "Aligning your mom...", "item_type": "armor"}}, "build": {"magic_dmg": 1.5, "protection": 0.5, "melee_dmg": 0.65, "attack_spd": 1.5}}, 
+ 
+ 
+ "ERROR": {"name": "ERROR", "role": "Mage", "items": 
+        {"4": {"name": "Knife", "magic_dmg": 0.53, "melee_dmg": 1.14, "attack_spd": 1.84, "descript": "Revving tactics...", "item_type": "weapon"}, 
+         "17": 
+         {"name": "Gaulet", "magic_dmg": 0.47, "melee_dmg": 0.36, "attack_spd": 1.57, "descript": "Refactoring the core", "item_type": "weapon"}, 
+         "9": {"name": "Staff", "magic_dmg": 1.78, "melee_dmg": 0.37, "attack_spd": 0.28, "descript": "Polishing love...", "item_type": "weapon"}, 
+         "13": {"name": "Knife", "magic_dmg": 1.99, "melee_dmg": 0.33, "attack_spd": 1.72, "descript": "Simulating the truth", "item_type": "weapon"}, 
+         "11": {"name": "Staff", "magic_dmg": 1.84, "melee_dmg": 1.93, "attack_spd": 0.76, "descript": "Decrypting fluids...", "item_type": "weapon"}, 
+         "14": {"name": "Stick", "magic_dmg": 1.88, "melee_dmg": 0.61, "attack_spd": 0.99, "descript": "Refactoring Teensy", "item_type": "weapon"}, 
+         "16": {"name": "Sword", "magic_dmg": 0.88, "melee_dmg": 1.2, "attack_spd": 1.57, "descript": "Microwaving the funk", "item_type": "weapon"}, 
+         "18": {"name": "Flail", "magic_dmg": 1.61, "melee_dmg": 1.66, "attack_spd": 0.3, "descript": "Configuring content", "item_type": "weapon"}}, "equipped": 
+        {"8": {"name": "Mace", "magic_dmg": 0.99, "melee_dmg": 0.82, "attack_spd": 1.04, "descript": "Attaching lasers...", "item_type": "weapon"}, 
+         "1": {"name": "Stick", "magic_dmg": 0.37, "melee_dmg": 0.65, "attack_spd": 1.36, "descript": "Baking warp drive...", "item_type": "weapon"}}, 
+        "build": {"magic_dmg": 1.5, "protection": 0.5, "melee_dmg": 0.65, "attack_spd": 1.5}}}
