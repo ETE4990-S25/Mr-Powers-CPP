@@ -1,0 +1,22 @@
+2025-04-10 16:45:38,744 | 'CRITICAL'|CRITICAL | child me
+2025-04-10 16:45:38,746 | 'INFO'|INFO | hello
+2025-04-10 16:46:38,777 | 'CRITICAL'|CRITICAL | all your base are belong to us
+2025-04-10 16:46:38,790 | 'INFO'|INFO | hello
+2025-04-10 16:46:55,261 | 'CRITICAL'|CRITICAL | all your base are belong to us
+2025-04-10 16:46:55,261 | CRITICAL| all your base are belong to us
+2025-04-10 16:46:55,265 | 'INFO'|INFO | hello
+2025-04-10 16:46:55,265 | INFO| hello
+2025-04-10 16:47:11,722 | 'CRITICAL'|CRITICAL | all your base are belong to us
+2025-04-10 16:47:11,722 | CRITICAL| all your base are belong to us
+2025-04-10 16:47:11,722 | CRITICAL | all your base are belong to us
+2025-04-10 16:47:11,726 | 'INFO'|INFO | hello
+2025-04-10 16:47:11,726 | INFO| hello
+2025-04-10 16:47:11,726 | INFO | hello
+2025-04-10 16:47:44,405 | CRITICAL | all your base are belong to us
+2025-04-10 16:47:44,406 | INFO | hello
+2025-04-10 16:47:47,670 | CRITICAL | child me
+2025-04-10 16:47:47,671 | INFO | hello
+2025-04-10 16:49:44,000 | CRITICAL | child me
+2025-04-10 16:49:44,000 | CRITICAL | child me
+2025-04-10 16:49:44,001 | INFO | hello
+2025-04-10 16:49:44,001 | INFO | hello

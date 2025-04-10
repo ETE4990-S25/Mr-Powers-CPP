@@ -1,0 +1,11 @@
+Timer unit: 1e-09 s
+
+Total time: 22.746 s
+File: /var/folders/6c/phtqtltd4wn1pydbmzp55knr0000gp/T/ipykernel_30796/271704029.py
+Function: runit at line 16
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+    16                                           def runit(n): 
+    17         6      23000.0   3833.3      0.0      for i in range(n): 
+    18         5        2e+10    5e+09    100.0          heavy()

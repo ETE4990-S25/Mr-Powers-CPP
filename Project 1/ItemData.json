@@ -1,0 +1,794 @@
+{
+	"items": [
+		{
+			"id": 0,
+			"description": "Empty Slot"
+		},
+		{
+			"id": 1,
+			"name": "Air Gem",
+			"description": "A pale coloured gem brimming with air magic.",
+			"category": "Magic"
+		},
+		{
+			"id": 2,
+			"name": "Alchemist's Scroll",
+			"description": "Contains scribblings about turning lead to gold or some such nonsense.",
+			"category": "Magic"
+		},
+		{
+			"id": 3,
+			"name": "Ancient Coin",
+			"description": "Currency from an ancient civilisation, this belongs in a museum!",
+			"category": "General"
+		},
+		{
+			"id": 4,
+			"name": "Ancient Scroll",
+			"description": "An ancient scroll full of incantations long thought lost.",
+			"category": "Magic"
+		},
+		{
+			"id": 5,
+			"name": "Ancient Spellbook",
+			"description": "A tome from a time forgotten, filled with all sorts of incantations.",
+			"category": "Magic"
+		},
+		{
+			"id": 6,
+			"name": "Aqua Rod",
+			"description": "Command water magic with this beautiful wand.",
+			"category": "Magic"
+		},
+		{
+			"id": 7,
+			"name": "Beast Necklace",
+			"description": "Made from the fang of a felled beast, this necklace is distinctive.",
+			"category": "General"
+		},
+		{
+			"id": 8,
+			"name": "Black Pearl",
+			"description": "A dark pearl which shimmers in the light.",
+			"category": "General"
+		},
+		{
+			"id": 9,
+			"name": "Black Potion",
+			"description": "It says it can heal, but looks a bit suspicious. Medium Size.",
+			"category": "Healing"
+		},
+		{
+			"id": 10,
+			"name": "Blackberry Bonbon",
+			"description": "Ideal for those with a sweet tooth! This one tastes of blackberries.",
+			"category": "Food"
+		},
+		{
+			"id": 11,
+			"name": "Blank Scroll",
+			"description": "Spare parchment, awaiting someone to use it for a spell.",
+			"category": "Magic"
+		},
+		{
+			"id": 12,
+			"name": "Blaze Arrow",
+			"description": "A more powerful arrow than the Fire Arrow. Sure to burn your target to ash.",
+			"category": "Weapons"
+		},
+		{
+			"id": 13,
+			"name": "Blood Blade",
+			"description": "This sword gets its colour from those that fall victim to its blade.",
+			"category": "Weapons"
+		},
+		{
+			"id": 14,
+			"name": "Blood Buckler",
+			"description": "The more foes this shield's owner slays, the strong it becomes.",
+			"category": "Armour"
+		},
+		{
+			"id": 15,
+			"name": "Bloodstone Ring",
+			"description": "The bloodstone set in this ring grants the wearer healing magic.",
+			"category": "Armour"
+		},
+		{
+			"id": 16,
+			"name": "Blue Candycane",
+			"description": "A sugary treat laced with blueberry flavour.",
+			"category": "Food"
+		},
+		{
+			"id": 17,
+			"name": "Blue Fish",
+			"description": "Common in the local rivers, this fish's scales shimmer in the sunlight.",
+			"category": "Food"
+		},
+		{
+			"id": 18,
+			"name": "Blue Pearl",
+			"description": "The colour of this beautiful pearl reminds of the seas from whence it came.",
+			"category": "General"
+		},
+		{
+			"id": 19,
+			"name": "Blue Potion",
+			"description": "This concoction restores mana and gives a boost of water magic. Medium size.",
+			"category": "Healing"
+		},
+		{
+			"id": 20,
+			"name": "Blueberry Bonbon",
+			"description": "Ideal for those with a sweet tooth! This one tastes of blueberries.",
+			"category": "Food"
+		},
+		{
+			"id": 21,
+			"name": "Bronze Helmet",
+			"description": "A sturdy helmet to protect its wearer in battle.",
+			"category": "Armour"
+		},
+		{
+			"id": 22,
+			"name": "Bronze Ingot",
+			"description": "A solid bronze bar. A blacksmith can use it for crafting.",
+			"category": "General"
+		},
+		{
+			"id": 23,
+			"name": "Bronze Key",
+			"description": "A bronze-coloured key. Probably fits a bronze-coloured lock.",
+			"category": "General"
+		},
+		{
+			"id": 24,
+			"name": "Brown Fish",
+			"description": "A very common fish found in most bodies of fresh water.",
+			"category": "Food"
+		},
+		{
+			"id": 25,
+			"name": "Dark Gem",
+			"description": "Dark as the night sky, this gem glistens with evil magic.",
+			"category": "Magic"
+		},
+		{
+			"id": 26,
+			"name": "Dark Sword",
+			"description": "Forged for a demon king, this sword burns the souls of its enemies.",
+			"category": "Weapons"
+		},
+		{
+			"id": 27,
+			"name": "Demon Helm",
+			"description": "A terrifying helmet forged from the skull of a mighty demon.",
+			"category": "Armour"
+		},
+		{
+			"id": 28,
+			"name": "Demon Shield",
+			"description": "A shield emblazoned with a demon's skull. Horrific, yet practical.",
+			"category": "Armour"
+		},
+		{
+			"id": 29,
+			"name": "Earth Gem",
+			"description": "This brown coloured gem contains an abundance of earth magic.",
+			"category": "Magic"
+		},
+		{
+			"id": 30,
+			"name": "Earthen Staff",
+			"description": "The staff from an Earth Wizard. Gives the user control of earth magic.",
+			"category": "Magic"
+		},
+		{
+			"id": 31,
+			"name": "Elven Ring",
+			"description": "Forged by the forest elves, this ring grants the wearer extra stealth.",
+			"category": "Armour"
+		},
+		{
+			"id": 32,
+			"name": "Empty Bottle",
+			"description": "A glass bottle used to store potions. This is the size for a medium potion.",
+			"category": "Healing"
+		},
+		{
+			"id": 33,
+			"name": "Empty Flask",
+			"description": "A glass bottle used to store potions. This is the size for a large potion.",
+			"category": "Healing"
+		},
+		{
+			"id": 34,
+			"name": "Empty Vial",
+			"description": "A glass bottle used to store potions. This is the size for a small potion.",
+			"category": "Healing"
+		},
+		{
+			"id": 35,
+			"name": "Festive Bonbon",
+			"description": "Ideal for those with a sweet tooth! This one tastes of spices.",
+			"category": "Food"
+		},
+		{
+			"id": 36,
+			"name": "Festive Candycane",
+			"description": "A sugary treat laced with a spicy flavour.",
+			"category": "Food"
+		},
+		{
+			"id": 37,
+			"name": "Fire Gem",
+			"description": "It feels warm to the touch. This gem appears to have a tiny flame in its centre.",
+			"category": "Magic"
+		},
+		{
+			"id": 38,
+			"name": "Fire Helm",
+			"description": "Imbued with fire magic, this helmet can withstand any heat.",
+			"category": "Armour"
+		},
+		{
+			"id": 39,
+			"name": "Fire Ring",
+			"description": "Forged in the fires of a volcano, this ring allows the wearer to walk on lava.",
+			"category": "Armour"
+		},
+		{
+			"id": 40,
+			"name": "Fire Staff",
+			"description": "Control fire magic with this mighty staff.",
+			"category": "Magic"
+		},
+		{
+			"id": 41,
+			"name": "Fire Arrow",
+			"description": "This flaming arrow will burn tragets on contact. Aim with care!",
+			"category": "Weapons"
+		},
+		{
+			"id": 42,
+			"name": "Flame Bow",
+			"description": "A magical bow that boosts the power of fire and blaze arrows.",
+			"category": "Weapons"
+		},
+		{
+			"id": 43,
+			"name": "Forest Arrow",
+			"description": "An upgrade to its wooden cousin, this arrow has a hint of Elven magic.",
+			"category": "Weapons"
+		},
+		{
+			"id": 44,
+			"name": "Forest Shield",
+			"description": "A fine shield crafted from the wood of an ancient tree.",
+			"category": "Armour"
+		},
+		{
+			"id": 45,
+			"name": "Frost Arrow",
+			"description": "Full of the strongest ice magic, this arrow will freeze whatever it touches. Handle with care.",
+			"category": "Weapons"
+		},
+		{
+			"id": 46,
+			"name": "Frozen Helmet",
+			"description": "A sturdy helmet full of ice magic, this protects the wearer from extreme cold.",
+			"category": "Armour"
+		},
+		{
+			"id": 47,
+			"name": "Gold Ingot",
+			"description": "A solid bar of gold. Can be sold for a fortune or used in crafting.",
+			"category": "General"
+		},
+		{
+			"id": 48,
+			"name": "Golden Arrow",
+			"description": "Looks very flashy, but not that much better than a wooden one.",
+			"category": "Weapons"
+		},
+		{
+			"id": 49,
+			"name": "Golden Bow",
+			"description": "Made of the finest gold, this bow is the definition of style over substance.",
+			"category": "Weapons"
+		},
+		{
+			"id": 50,
+			"name": "Golden Buckler",
+			"description": "A golden shield designed to look good rather than protect people. ",
+			"category": "Armour"
+		},
+		{
+			"id": 51,
+			"name": "Golden Coin",
+			"description": "A shiny gold coin used to make purchases in towns around the realm.",
+			"category": "General"
+		},
+		{
+			"id": 52,
+			"name": "Golden Key",
+			"description": "A key as lovely as this must open the way to an equally lovely prize!",
+			"category": "General"
+		},
+		{
+			"id": 53,
+			"name": "Green Candycane",
+			"description": "A sugary treat laced with a minty flavour.",
+			"category": "Food"
+		},
+		{
+			"id": 54,
+			"name": "Green Fish",
+			"description": "A tricky fish to catch due to its ability to hide among the reeds.",
+			"category": "Food"
+		},
+		{
+			"id": 55,
+			"name": "Green Pearl",
+			"description": "An unusual pearl with the colour of a vast meadow.",
+			"category": "General"
+		},
+		{
+			"id": 56,
+			"name": "Green Potion",
+			"description": "This potion was created to restore mana. Medium size.",
+			"category": "Healing"
+		},
+		{
+			"id": 57,
+			"name": "Hero's Sword",
+			"description": "A mighty sword favoured by heroes the world over.",
+			"category": "Weapons"
+		},
+		{
+			"id": 58,
+			"name": "Holy Arrow",
+			"description": "An arrow blessed by the gods. Highly effective against demons.",
+			"category": "Weapons"
+		},
+		{
+			"id": 59,
+			"name": "Holy Blade",
+			"description": "A blade said to be fuelled by the power of the gods. The bane of all evil.",
+			"category": "Weapons"
+		},
+		{
+			"id": 60,
+			"name": "Holy Shield",
+			"description": "A strong shield that also provides brief immunity from evil magic.",
+			"category": "Armour"
+		},
+		{
+			"id": 61,
+			"name": "Holy Spellbook",
+			"description": "A thick tome filled with spells practiced by light mages across the realm.",
+			"category": "Magic"
+		},
+		{
+			"id": 62,
+			"name": "Holy Staff",
+			"description": "This staff gives control over powerful holy and healing magic.",
+			"category": "Magic"
+		},
+		{
+			"id": 63,
+			"name": "Ice Arrow",
+			"description": "Less powerful than the Frost Arrow but can still cool targets.",
+			"category": "Weapons"
+		},
+		{
+			"id": 64,
+			"name": "Ice Bow",
+			"description": "A fine bow imbued with ice magic. Best paired with ice or frost arrows.",
+			"category": "Weapons"
+		},
+		{
+			"id": 65,
+			"name": "Ice Gem",
+			"description": "A cold gem with a blue hue. Used to boost one's ice magic.",
+			"category": "Magic"
+		},
+		{
+			"id": 66,
+			"name": "Knight's Helm",
+			"description": "A sturdy helmet favoured by the nation's knights.",
+			"category": "Armour"
+		},
+		{
+			"id": 67,
+			"name": "Large Black Potion",
+			"description": "It says it can heal, but looks a bit suspicious. Large Size.",
+			"category": "Healing"
+		},
+		{
+			"id": 68,
+			"name": "Large Blue Potion",
+			"description": "This concoction restores mana and gives a boost of water magic. Large size.",
+			"category": "Healing"
+		},
+		{
+			"id": 69,
+			"name": "Large Green Potion",
+			"description": "This potion was created to restore mana. Large size.",
+			"category": "Healing"
+		},
+		{
+			"id": 70,
+			"name": "Large Orange Potion",
+			"description": "This potion restores mana and gives a boost of fire magic. Large size.",
+			"category": "Healing"
+		},
+		{
+			"id": 71,
+			"name": "Large Pink Potion",
+			"description": "A health restoring potion. Less potent than a red potion. Large size.",
+			"category": "Healing"
+		},
+		{
+			"id": 72,
+			"name": "Large Purple Potion",
+			"description": "This concoction restores both health and mana. Large size.",
+			"category": "Healing"
+		},
+		{
+			"id": 73,
+			"name": "Large Red Potion",
+			"description": "A vibrant red potion designed to restore health. Large size.",
+			"category": "Healing"
+		},
+		{
+			"id": 74,
+			"name": "Lemon Bonbon",
+			"description": "Ideal for those with a sweet tooth! This one tastes of lemon.",
+			"category": "Food"
+		},
+		{
+			"id": 75,
+			"name": "Light Arrow",
+			"description": "A less potent version of the holy arrow. Effective against dark magic.",
+			"category": "Weapons"
+		},
+		{
+			"id": 76,
+			"name": "Light Ring",
+			"description": "The stone in this ring emits a soft glow that can be used as a light source.",
+			"category": "Armour"
+		},
+		{
+			"id": 77,
+			"name": "Light Shield",
+			"description": "A small shield designed for maneuverability over defence.",
+			"category": "Armour"
+		},
+		{
+			"id": 78,
+			"name": "Lime Bonbon",
+			"description": "Ideal for those with a sweet tooth! This one tastes of lime.",
+			"category": "Food"
+		},
+		{
+			"id": 79,
+			"name": "Moon Ring",
+			"description": "A moonstone ring that offers weak protection against magic attacks.",
+			"category": "Armour"
+		},
+		{
+			"id": 80,
+			"name": "Mysterious Key",
+			"description": "What does this unlock? Better start trying it out!",
+			"category": "General"
+		},
+		{
+			"id": 81,
+			"name": "Orange Bonbon",
+			"description": "Ideal for those with a sweet tooth! This one tastes of orange.",
+			"category": "Food"
+		},
+		{
+			"id": 82,
+			"name": "Orange Candycane",
+			"description": "A sugary treat laced with an orange flavour.",
+			"category": "Food"
+		},
+		{
+			"id": 83,
+			"name": "Orange Potion",
+			"description": "This potion restores mana and gives a boost of fire magic. Medium size.",
+			"category": "Healing"
+		},
+		{
+			"id": 84,
+			"name": "Pile of Gold",
+			"description": "Retrieved from a group of bandits. See that it gets returned to its owner!",
+			"category": "General"
+		},
+		{
+			"id": 85,
+			"name": "Pile of Silver",
+			"description": "A large pile of silver coins, can be used to purchase goods from merchants.",
+			"category": "General"
+		},
+		{
+			"id": 86,
+			"name": "Pink Candycane",
+			"description": "A sugary treat laced with a raspberry flavour.",
+			"category": "Food"
+		},
+		{
+			"id": 87,
+			"name": "Pink Potion",
+			"description": "A health restoring potion. Less potent than a red potion. Medium size.",
+			"category": "Healing"
+		},
+		{
+			"id": 88,
+			"name": "Poison Gem",
+			"description": "Don't let its beautiful colour fool you, this gem contains strong poison magic.",
+			"category": "Magic"
+		},
+		{
+			"id": 89,
+			"name": "Prized Necklace",
+			"description": "An old friend gave you this a long time ago. Keep it safe.",
+			"category": "General"
+		},
+		{
+			"id": 90,
+			"name": "Purple Candycane",
+			"description": "A sugary treat laced with a blackcurrant flavour.",
+			"category": "Food"
+		},
+		{
+			"id": 91,
+			"name": "Purple Potion",
+			"description": "This concoction restores both health and mana. Medium size.",
+			"category": "Healing"
+		},
+		{
+			"id": 92,
+			"name": "Raspberry Bonbon",
+			"description": "Ideal for those with a sweet tooth! This one tastes of raspberries.",
+			"category": "Food"
+		},
+		{
+			"id": 93,
+			"name": "Red Candycane",
+			"description": "A sugary treat laced with a strawberry flavour.",
+			"category": "Food"
+		},
+		{
+			"id": 94,
+			"name": "Red Fish",
+			"description": "This fish feeds on red algae, which gives it its unique colouring.",
+			"category": "Food"
+		},
+		{
+			"id": 95,
+			"name": "Red Pearl",
+			"description": "An unusual pearl with a glimmering red colour.",
+			"category": "General"
+		},
+		{
+			"id": 96,
+			"name": "Red Potion",
+			"description": "A vibrant red potion designed to restore health. Medium size.",
+			"category": "Healing"
+		},
+		{
+			"id": 97,
+			"name": "Royal Scepter",
+			"description": "A magic scepter handed down through the royal family for generations.",
+			"category": "Magic"
+		},
+		{
+			"id": 98,
+			"name": "Royal Scroll",
+			"description": "This ancient scroll is an heirloom of the royal family.",
+			"category": "Magic"
+		},
+		{
+			"id": 99,
+			"name": "Rusted Ingot",
+			"description": "Rusted beyond recognition. A blacksmith can clean it up for you.",
+			"category": "General"
+		},
+		{
+			"id": 100,
+			"name": "Rusty Key",
+			"description": "A very rusty old key. It'll be a miracle if it still unlocks anything.",
+			"category": "General"
+		},
+		{
+			"id": 101,
+			"name": "Shimmering Ingot",
+			"description": "This metal has been polished to an high shine. Take it to a blacksmith.",
+			"category": "General"
+		},
+		{
+			"id": 102,
+			"name": "Silver Arrow",
+			"description": "Effective against werewolves thanks to its silver arrowhead.",
+			"category": "Weapons"
+		},
+		{
+			"id": 103,
+			"name": "Silver Bow",
+			"description": "A finely crafted bow inlaid with silver. Said to boost the power of silver arrows.",
+			"category": "Weapons"
+		},
+		{
+			"id": 104,
+			"name": "Silver Coin",
+			"description": "A shiny silver coin. Save up plenty of these for a shopping trip!",
+			"category": "General"
+		},
+		{
+			"id": 105,
+			"name": "Silver Helm",
+			"description": "A beautiful helmet mainly used for ceremonies. It's not really made for battle.",
+			"category": "Armour"
+		},
+		{
+			"id": 106,
+			"name": "Silver Ingot",
+			"description": "A solid bar of silver. Take this to a blacksmith to use it.",
+			"category": "General"
+		},
+		{
+			"id": 107,
+			"name": "Silver Key",
+			"description": "A small, silver key. A delicate key like this probably fits an equally delicate lock.",
+			"category": "General"
+		},
+		{
+			"id": 108,
+			"name": "Silver Ring",
+			"description": "A decorative silver ring. Contains a small amount of air magic.",
+			"category": "Armour"
+		},
+		{
+			"id": 109,
+			"name": "Small Black Potion",
+			"description": "It says it can heal, but looks a bit suspicious. Small Size.",
+			"category": "Healing"
+		},
+		{
+			"id": 110,
+			"name": "Small Blue Potion",
+			"description": "This concoction restores mana and gives a boost of water magic. Small size.",
+			"category": "Healing"
+		},
+		{
+			"id": 111,
+			"name": "Small Gift",
+			"description": "A small box with a gift inside. Who's this for?",
+			"category": "General"
+		},
+		{
+			"id": 112,
+			"name": "Small Green Potion",
+			"description": "This potion was created to restore mana. Small size.",
+			"category": "Healing"
+		},
+		{
+			"id": 113,
+			"name": "Small Orange Potion",
+			"description": "This potion restores mana and gives a boost of fire magic. Small size.",
+			"category": "Healing"
+		},
+		{
+			"id": 114,
+			"name": "Small Pink Potion",
+			"description": "A health restoring potion. Less potent than a red potion. Small size.",
+			"category": "Healing"
+		},
+		{
+			"id": 115,
+			"name": "Small Purple Potion",
+			"description": "This concoction restores both health and mana. Small size.",
+			"category": "Healing"
+		},
+		{
+			"id": 116,
+			"name": "Small Red Potion",
+			"description": "A vibrant red potion designed to restore health. Small size.",
+			"category": "Healing"
+		},
+		{
+			"id": 117,
+			"name": "Spent Gem",
+			"description": "This gem has been drained of all its magic. A mage can restore it.",
+			"category": "Magic"
+		},
+		{
+			"id": 118,
+			"name": "Strawberry Bonbon",
+			"description": "Ideal for those with a sweet tooth! This one tastes of strawberries.",
+			"category": "Food"
+		},
+		{
+			"id": 119,
+			"name": "Sun Ring",
+			"description": "This special ring grants the wearer a defence boost during the day.",
+			"category": "Armour"
+		},
+		{
+			"id": 120,
+			"name": "Thunder Gem",
+			"description": "A gem full of thunder magic. Has a storm raging in its centre.",
+			"category": "Magic"
+		},
+		{
+			"id": 121,
+			"name": "Thunder Staff",
+			"description": "This staff allows the user to control violent storms using thunder magic.",
+			"category": "Magic"
+		},
+		{
+			"id": 122,
+			"name": "Training Sword",
+			"description": "A small wooden sword used to train new soldiers.",
+			"category": "Weapons"
+		},
+		{
+			"id": 123,
+			"name": "White Fish",
+			"description": "A large fish which is highly sought after due to its delicious flavour.",
+			"category": "Food"
+		},
+		{
+			"id": 124,
+			"name": "Winter Shield",
+			"description": "Built by craftsmen in the most northern region, this shield repels all ice magic.",
+			"category": "Armour"
+		},
+		{
+			"id": 125,
+			"name": "Wizard's Scroll",
+			"description": "A scroll containing basic teachings. Given to all new mages at a certain school.",
+			"category": "Magic"
+		},
+		{
+			"id": 126,
+			"name": "Wooden Shield",
+			"description": "A basic wooden shield used by newly recruited soldiers in their training.",
+			"category": "Armour"
+		},
+		{
+			"id": 127,
+			"name": "Wooden Sword",
+			"description": "An upgrade from the training sword. Made of wood but still sharp!",
+			"category": "Weapons"
+		},
+		{
+			"id": 128,
+			"name": "Woodland Arrow",
+			"description": "A staple for any archer. This simple arrow is enough to get started.",
+			"category": "Weapons"
+		},
+		{
+			"id": 129,
+			"name": "Woodland Bow",
+			"description": "A bow forged from ancient trees in the elven forest.",
+			"category": "Weapons"
+		},
+		{
+			"id": 130,
+			"name": "Worn Scroll",
+			"description": "You can feel the magic emanating from this scroll. But it's too faded to read.",
+			"category": "Magic"
+		},
+		{
+			"id": 131,
+			"name": "Yellow Fish",
+			"description": "A small fish with yellow scales that glisten in the sunlight.",
+			"category": "Food"
+		}
+	]
+}

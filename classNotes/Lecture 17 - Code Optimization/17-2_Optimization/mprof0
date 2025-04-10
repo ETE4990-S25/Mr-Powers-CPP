@@ -1,0 +1,7 @@
+Filename: /Users/Kris/Documents/Classes/ETE4990 - Python/ClassNotes/Lecture/Lecture 18/simulation.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    15    134.9 MiB    134.9 MiB           1   def runit(): 
+    16    134.9 MiB   -391.7 MiB           6       for i in range(5): 
+    17    134.9 MiB   -391.8 MiB           5           heavy()

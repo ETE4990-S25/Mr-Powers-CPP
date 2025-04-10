@@ -1,0 +1,8 @@
+child me
+hello
+child me
+hello
+child me
+2025-04-10 16:49:44,000 | CRITICAL | child me
+hello
+2025-04-10 16:49:44,001 | INFO | hello
