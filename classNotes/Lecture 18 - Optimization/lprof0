@@ -1,0 +1,14 @@
+Timer unit: 1e-09 s
+
+Total time: 2.21248 s
+File: /tmp/ipykernel_268011/3195944496.py
+Function: heavy at line 8
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+     8                                           def heavy(): 
+     9        11      24761.0   2251.0      0.0      for i in range(10): 
+    10        10   10717415.0    1e+06      0.5          light() 
+    11        10  100775654.0    1e+07      4.6          medium() 
+    12        10  100874075.0    1e+07      4.6          medium() 
+    13         1 2000086098.0    2e+09     90.4      time.sleep(2)

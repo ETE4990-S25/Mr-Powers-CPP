@@ -1,0 +1,3 @@
+# Ignore all files in SupportFiles and tools
+*/*.ipynb_checkpoints
+

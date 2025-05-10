@@ -1,0 +1,233 @@
+2025-04-11 23:20:36,912 | my_app | INFO | Service started
+2025-04-11 23:20:36,912 | my_app | INFO | Request completed
+2025-04-11 23:20:36,912 | my_app | ERROR | Permission denied
+2025-04-11 23:20:36,912 | my_app | INFO | Configuration loaded
+2025-04-11 23:20:36,912 | my_app | INFO | User logged in
+2025-04-11 23:20:36,913 | my_app | INFO | Configuration loaded
+2025-04-11 23:20:36,913 | my_app.utils | CRITICAL | Database corruption
+2025-04-11 23:20:36,913 | my_app | WARNING | Retrying connection
+2025-04-11 23:20:36,913 | my_app | CRITICAL | Database corruption
+2025-04-11 23:20:36,913 | my_app | INFO | User logged in
+2025-04-11 23:20:36,913 | my_app | INFO | Request completed
+2025-04-11 23:20:36,914 | my_app.utils | ERROR | Unhandled exception
+2025-04-11 23:20:36,914 | my_app.utils.db | CRITICAL | Disk failure detected
+2025-04-11 23:20:36,914 | my_app | CRITICAL | System failure
+2025-04-11 23:20:36,914 | my_app | INFO | Configuration loaded
+2025-04-11 23:20:36,914 | my_app | WARNING | Disk space low
+2025-04-11 23:20:36,914 | my_app | WARNING | High memory usage detected
+2025-04-11 23:20:36,914 | my_app | INFO | Heartbeat OK
+2025-04-11 23:20:36,914 | my_app | ERROR | Could not connect to database
+2025-04-11 23:20:36,914 | my_app | INFO | Request completed
+2025-04-11 23:20:36,914 | my_app | INFO | User logged in
+2025-04-11 23:20:36,914 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,524 | my_app | INFO | Service started
+2025-04-11 23:23:41,524 | my_app | INFO | User logged in
+2025-04-11 23:23:41,524 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,524 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,524 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,524 | my_app.utils | CRITICAL | Database corruption
+2025-04-11 23:23:41,524 | my_app | ERROR | Could not connect to database
+2025-04-11 23:23:41,524 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,524 | my_app.utils.db | CRITICAL | Database corruption
+2025-04-11 23:23:41,525 | my_app.utils | ERROR | Permission denied
+2025-04-11 23:23:41,525 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,525 | my_app | INFO | User logged in
+2025-04-11 23:23:41,525 | my_app | WARNING | Disk space low
+2025-04-11 23:23:41,525 | my_app | INFO | Service started
+2025-04-11 23:23:41,525 | my_app.utils | CRITICAL | System failure
+2025-04-11 23:23:41,525 | my_app.utils | ERROR | Service timeout
+2025-04-11 23:23:41,525 | my_app | ERROR | Could not connect to database
+2025-04-11 23:23:41,525 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,525 | my_app.utils | ERROR | Could not connect to database
+2025-04-11 23:23:41,525 | my_app | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,525 | my_app | WARNING | Retrying connection
+2025-04-11 23:23:41,525 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,525 | my_app.utils | ERROR | Service timeout
+2025-04-11 23:23:41,525 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,525 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,525 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,525 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,526 | my_app.utils | ERROR | Could not connect to database
+2025-04-11 23:23:41,526 | my_app | INFO | Service started
+2025-04-11 23:23:41,526 | my_app | CRITICAL | Database corruption
+2025-04-11 23:23:41,526 | my_app | WARNING | Retrying connection
+2025-04-11 23:23:41,526 | my_app | INFO | Request completed
+2025-04-11 23:23:41,526 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,526 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,526 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,526 | my_app.utils | ERROR | Unhandled exception
+2025-04-11 23:23:41,526 | my_app | WARNING | Disk space low
+2025-04-11 23:23:41,526 | my_app | ERROR | Service timeout
+2025-04-11 23:23:41,526 | my_app.utils | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,526 | my_app.utils | CRITICAL | Kernel panic
+2025-04-11 23:23:41,526 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,526 | my_app | INFO | Request completed
+2025-04-11 23:23:41,526 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,526 | my_app | INFO | Service started
+2025-04-11 23:23:41,526 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,526 | my_app.utils | CRITICAL | Database corruption
+2025-04-11 23:23:41,526 | my_app | INFO | Request completed
+2025-04-11 23:23:41,526 | my_app | CRITICAL | Database corruption
+2025-04-11 23:23:41,526 | my_app | WARNING | Retrying connection
+2025-04-11 23:23:41,526 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,526 | my_app | INFO | Service started
+2025-04-11 23:23:41,527 | my_app | ERROR | Service timeout
+2025-04-11 23:23:41,527 | my_app | INFO | User logged in
+2025-04-11 23:23:41,527 | my_app | INFO | User logged in
+2025-04-11 23:23:41,527 | my_app.utils.db | CRITICAL | Database corruption
+2025-04-11 23:23:41,527 | my_app.utils | ERROR | Could not connect to database
+2025-04-11 23:23:41,527 | my_app | INFO | Service started
+2025-04-11 23:23:41,527 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,527 | my_app | INFO | Request completed
+2025-04-11 23:23:41,527 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,527 | my_app | INFO | Service started
+2025-04-11 23:23:41,527 | my_app.utils | ERROR | Could not connect to database
+2025-04-11 23:23:41,527 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,527 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,527 | my_app.utils | ERROR | Could not connect to database
+2025-04-11 23:23:41,527 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,527 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,527 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,527 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,527 | my_app.utils | ERROR | Could not connect to database
+2025-04-11 23:23:41,528 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,528 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,528 | my_app | ERROR | Permission denied
+2025-04-11 23:23:41,528 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,528 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,528 | my_app | INFO | User logged in
+2025-04-11 23:23:41,528 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,528 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,528 | my_app.utils | ERROR | Unhandled exception
+2025-04-11 23:23:41,528 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,528 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,528 | my_app.utils | ERROR | Permission denied
+2025-04-11 23:23:41,528 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,528 | my_app | CRITICAL | System failure
+2025-04-11 23:23:41,528 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,528 | my_app.utils.db | CRITICAL | System failure
+2025-04-11 23:23:41,529 | my_app.utils.db | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,529 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,529 | my_app.utils | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,529 | my_app.utils | ERROR | Service timeout
+2025-04-11 23:23:41,529 | my_app | WARNING | Retrying connection
+2025-04-11 23:23:41,529 | my_app | INFO | Request completed
+2025-04-11 23:23:41,529 | my_app.utils | ERROR | Service timeout
+2025-04-11 23:23:41,529 | my_app | ERROR | Could not connect to database
+2025-04-11 23:23:41,529 | my_app | ERROR | Service timeout
+2025-04-11 23:23:41,529 | my_app | INFO | Request completed
+2025-04-11 23:23:41,529 | my_app | INFO | Request completed
+2025-04-11 23:23:41,530 | my_app | INFO | User logged in
+2025-04-11 23:23:41,530 | my_app.utils | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,530 | my_app | CRITICAL | System failure
+2025-04-11 23:23:41,530 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,530 | my_app | INFO | Service started
+2025-04-11 23:23:41,530 | my_app.utils | ERROR | Unhandled exception
+2025-04-11 23:23:41,530 | my_app | INFO | Request completed
+2025-04-11 23:23:41,530 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,530 | my_app | WARNING | Retrying connection
+2025-04-11 23:23:41,530 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,530 | my_app | ERROR | Could not connect to database
+2025-04-11 23:23:41,531 | my_app | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,531 | my_app | ERROR | Permission denied
+2025-04-11 23:23:41,531 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,531 | my_app.utils | ERROR | Unhandled exception
+2025-04-11 23:23:41,531 | my_app.utils | ERROR | Unhandled exception
+2025-04-11 23:23:41,531 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,531 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,531 | my_app.utils | CRITICAL | Database corruption
+2025-04-11 23:23:41,531 | my_app | INFO | Service started
+2025-04-11 23:23:41,531 | my_app | CRITICAL | Kernel panic
+2025-04-11 23:23:41,531 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,531 | my_app | ERROR | Permission denied
+2025-04-11 23:23:41,531 | my_app.utils.db | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,531 | my_app | INFO | Request completed
+2025-04-11 23:23:41,531 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,531 | my_app | WARNING | Retrying connection
+2025-04-11 23:23:41,532 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,532 | my_app.utils | ERROR | Unhandled exception
+2025-04-11 23:23:41,532 | my_app | INFO | User logged in
+2025-04-11 23:23:41,532 | my_app.utils | ERROR | Service timeout
+2025-04-11 23:23:41,532 | my_app | INFO | User logged in
+2025-04-11 23:23:41,532 | my_app.utils | ERROR | Permission denied
+2025-04-11 23:23:41,532 | my_app.utils | ERROR | Service timeout
+2025-04-11 23:23:41,532 | my_app | ERROR | Permission denied
+2025-04-11 23:23:41,532 | my_app | INFO | Service started
+2025-04-11 23:23:41,532 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,532 | my_app | ERROR | Permission denied
+2025-04-11 23:23:41,533 | my_app | WARNING | Disk space low
+2025-04-11 23:23:41,533 | my_app | WARNING | Retrying connection
+2025-04-11 23:23:41,533 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,533 | my_app | INFO | Request completed
+2025-04-11 23:23:41,533 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,533 | my_app | WARNING | Retrying connection
+2025-04-11 23:23:41,533 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,533 | my_app.utils | ERROR | Unhandled exception
+2025-04-11 23:23:41,533 | my_app | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,533 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,533 | my_app | INFO | Request completed
+2025-04-11 23:23:41,533 | my_app | CRITICAL | Kernel panic
+2025-04-11 23:23:41,533 | my_app.utils | ERROR | Service timeout
+2025-04-11 23:23:41,533 | my_app | CRITICAL | System failure
+2025-04-11 23:23:41,533 | my_app.utils | ERROR | Unhandled exception
+2025-04-11 23:23:41,533 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,534 | my_app | INFO | Service started
+2025-04-11 23:23:41,534 | my_app | WARNING | Disk space low
+2025-04-11 23:23:41,534 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,534 | my_app | CRITICAL | System failure
+2025-04-11 23:23:41,534 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,534 | my_app | INFO | Service started
+2025-04-11 23:23:41,534 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,534 | my_app.utils | CRITICAL | System failure
+2025-04-11 23:23:41,534 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,534 | my_app | WARNING | Disk space low
+2025-04-11 23:23:41,534 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,534 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,534 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,534 | my_app.utils | ERROR | Permission denied
+2025-04-11 23:23:41,534 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,534 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,534 | my_app | CRITICAL | Kernel panic
+2025-04-11 23:23:41,535 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,535 | my_app.utils | ERROR | Permission denied
+2025-04-11 23:23:41,535 | my_app | INFO | Request completed
+2025-04-11 23:23:41,535 | my_app | CRITICAL | Database corruption
+2025-04-11 23:23:41,535 | my_app.utils | CRITICAL | Database corruption
+2025-04-11 23:23:41,535 | my_app | CRITICAL | System failure
+2025-04-11 23:23:41,535 | my_app | CRITICAL | System failure
+2025-04-11 23:23:41,535 | my_app | INFO | User logged in
+2025-04-11 23:23:41,535 | my_app | INFO | Service started
+2025-04-11 23:23:41,535 | my_app | INFO | User logged in
+2025-04-11 23:23:41,535 | my_app.utils | CRITICAL | System failure
+2025-04-11 23:23:41,535 | my_app.utils | ERROR | Could not connect to database
+2025-04-11 23:23:41,535 | my_app | INFO | Heartbeat OK
+2025-04-11 23:23:41,536 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,536 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,536 | my_app.utils.db | CRITICAL | System failure
+2025-04-11 23:23:41,536 | my_app | WARNING | Disk space low
+2025-04-11 23:23:41,536 | my_app | INFO | Configuration loaded
+2025-04-11 23:23:41,536 | my_app | ERROR | Service timeout
+2025-04-11 23:23:41,536 | my_app | ERROR | Could not connect to database
+2025-04-11 23:23:41,536 | my_app.utils.db | CRITICAL | Database corruption
+2025-04-11 23:23:41,536 | my_app.utils | ERROR | Permission denied
+2025-04-11 23:23:41,536 | my_app.utils | ERROR | Unhandled exception
+2025-04-11 23:23:41,536 | my_app | WARNING | Disk space low
+2025-04-11 23:23:41,536 | my_app | INFO | Service started
+2025-04-11 23:23:41,536 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,536 | my_app | CRITICAL | Kernel panic
+2025-04-11 23:23:41,536 | my_app | INFO | Service started
+2025-04-11 23:23:41,536 | my_app | WARNING | High memory usage detected
+2025-04-11 23:23:41,536 | my_app.utils.db | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,537 | my_app | INFO | User logged in
+2025-04-11 23:23:41,537 | my_app.utils | CRITICAL | Kernel panic
+2025-04-11 23:23:41,537 | my_app | ERROR | Unhandled exception
+2025-04-11 23:23:41,537 | my_app.utils | ERROR | Unhandled exception
+2025-04-11 23:23:41,537 | my_app.utils | ERROR | Permission denied
+2025-04-11 23:23:41,537 | my_app | CRITICAL | Database corruption
+2025-04-11 23:23:41,537 | my_app | ERROR | Service timeout
+2025-04-11 23:23:41,537 | my_app | ERROR | Could not connect to database
+2025-04-11 23:23:41,537 | my_app | WARNING | Slow response time
+2025-04-11 23:23:41,537 | my_app.utils.db | CRITICAL | Database corruption
+2025-04-11 23:23:41,537 | my_app | CRITICAL | System failure
+2025-04-11 23:23:41,537 | my_app.utils | ERROR | Could not connect to database
+2025-04-11 23:23:41,537 | my_app | INFO | Heartbeat OK

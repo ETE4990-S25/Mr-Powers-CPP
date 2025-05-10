@@ -1,0 +1,17 @@
+Filename: /media/krispy/4A94A7D594A7C235/Users/Power/Documents/ETE/Git/Mr-Powers-CPP/classNotes/Lecture 18 - Optimization/rates.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+     5    102.8 MiB    102.8 MiB           1   def fetch_rate(bases, symbols =['eur','jpy','usd'] ):
+     6    103.1 MiB      0.0 MiB           6       for base in bases:
+     7    103.1 MiB      0.0 MiB           5           web = "http://www.floatrates.com/daily/"+str(base)+".json"
+     8    103.1 MiB      0.0 MiB           5           response = requests.get(web)
+     9    103.1 MiB      0.2 MiB           5           rate = response.json()
+    10    103.1 MiB      0.0 MiB           5           rate[base]= {'rate':1}
+    11                                                 
+    12                                                 #create a line to output the rate
+    13    103.1 MiB      0.0 MiB          10           rates_line = ", ".join(
+    14    103.1 MiB      0.0 MiB          35               [f"{symbol}{float(rate[symbol]['rate']):10.04}" 
+    15    103.1 MiB      0.0 MiB          20                for symbol in symbols]
+    16                                                 )
+    17    103.1 MiB      0.0 MiB           5           print(f"{base} = {rates_line}")
