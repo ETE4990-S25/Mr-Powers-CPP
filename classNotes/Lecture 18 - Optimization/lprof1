@@ -1,0 +1,21 @@
+Timer unit: 1e-09 s
+
+Total time: 1.34208 s
+File: /tmp/ipykernel_268011/2494841999.py
+Function: fetch_rate at line 6
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+     6                                           def fetch_rate(bases, symbols =['eur','jpy','usd'] ):
+     7         6       4516.0    752.7      0.0      for base in bases:
+     8         5       8410.0   1682.0      0.0          web = "http://www.floatrates.com/daily/"+str(base)+".json"
+     9         5 1339415008.0    3e+08     99.8          response = requests.get(web)
+    10         5    1963901.0 392780.2      0.1          rate = response.json()
+    11         5       5253.0   1050.6      0.0          rate[base]= {'rate':1}
+    12                                                   
+    13                                                   #create a line to output the rate
+    14        10       9595.0    959.5      0.0          rates_line = ", ".join(
+    15        35      83259.0   2378.8      0.0              [f"{symbol}{float(rate[symbol]['rate']):10.04}" 
+    16        20       5317.0    265.9      0.0               for symbol in symbols]
+    17                                                   )
+    18         5     583284.0 116656.8      0.0          print(f"{base} = {rates_line}")

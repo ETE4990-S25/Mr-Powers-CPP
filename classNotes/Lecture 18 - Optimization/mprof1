@@ -1,0 +1,7 @@
+Filename: /media/krispy/4A94A7D594A7C235/Users/Power/Documents/ETE/Git/Mr-Powers-CPP/classNotes/Lecture 18 - Optimization/runItPy.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    15    103.1 MiB    103.1 MiB           1   def runit(n): 
+    16    103.1 MiB      0.0 MiB           6       for i in range(n): 
+    17    103.1 MiB      0.0 MiB           5           heavy()

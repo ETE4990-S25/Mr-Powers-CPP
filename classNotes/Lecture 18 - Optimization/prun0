@@ -1,0 +1,13 @@
+         3014 function calls in 22.756 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   22.756   22.756 {built-in method builtins.exec}
+        1    0.000    0.000   22.756   22.756 <string>:1(<module>)
+        1    0.000    0.000   22.756   22.756 4277315889.py:3(__init__)
+        5    0.005    0.001   22.756    4.551 4277315889.py:13(heavy)
+     1505   22.748    0.015   22.748    0.015 {built-in method time.sleep}
+     1000    0.002    0.000   12.095    0.012 4277315889.py:7(medium)
+      500    0.001    0.000    0.633    0.001 4277315889.py:10(light)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}

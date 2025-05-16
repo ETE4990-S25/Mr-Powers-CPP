@@ -1,0 +1,1 @@
+[ "dual pistols", "machine gun", "shades" ]

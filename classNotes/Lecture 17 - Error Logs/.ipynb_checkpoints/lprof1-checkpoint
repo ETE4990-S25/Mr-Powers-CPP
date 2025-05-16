@@ -1,0 +1,21 @@
+Timer unit: 1e-09 s
+
+Total time: 2.40973 s
+File: /Users/Kris/Documents/Classes/ETE4990 - Python/ClassNotes/Lecture/Lecture 18/rates.py
+Function: fetch_rate at line 5
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+     5                                           def fetch_rate(bases, symbols =['eur','jpy','usd'] ):
+     6         6       7000.0   1166.7      0.0      for base in bases:
+     7         5      37000.0   7400.0      0.0          web = "http://www.floatrates.com/daily/"+str(base)+".json"
+     8         5 2401606000.0    5e+08     99.7          response = requests.get(web)
+     9         5    6616000.0    1e+06      0.3          rate = response.json()
+    10         5      12000.0   2400.0      0.0          rate[base]= {'rate':1}
+    11                                                   
+    12                                                   #create a line to output the rate
+    13        10      21000.0   2100.0      0.0          rates_line = ", ".join(
+    14        10     182000.0  18200.0      0.0              [f"{symbol}{float(rate[symbol]['rate']):10.04}" 
+    15         5       2000.0    400.0      0.0               for symbol in symbols]
+    16                                                   )
+    17         5    1245000.0 249000.0      0.1          print(f"{base} = {rates_line}")

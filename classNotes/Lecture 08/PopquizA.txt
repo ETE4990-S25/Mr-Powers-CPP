@@ -1,0 +1,1 @@
+{r:{s for s in '♥♦♠♣'} for r in range(1,14)}
