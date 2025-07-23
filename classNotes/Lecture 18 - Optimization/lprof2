@@ -1,0 +1,11 @@
+Timer unit: 1e-09 s
+
+Total time: 22.6588 s
+File: /Users/Kris/Documents/Classes/ETE4990 - Python/ClassNotes/Lecture/Lecture 18/simulation.py
+Function: runit at line 15
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+    15                                           def runit(): 
+    16         6      41000.0   6833.3      0.0      for i in range(5): 
+    17         5        2e+10    5e+09    100.0          heavy()

@@ -1,0 +1,16 @@
+2025-04-11 23:37:32,806 | systemd.core.performance | CRITICAL | [perf] System target not reached
+2025-04-11 23:37:32,808 | systemd.core.performance | CRITICAL | [perf] System target not reached
+2025-04-11 23:37:32,808 | systemd.core.performance | CRITICAL | [perf] System target not reached
+2025-04-11 23:37:32,808 | systemd.core.performance | CRITICAL | [perf] System target not reached
+2025-04-11 23:37:32,810 | systemd.core.performance | CRITICAL | [perf] System target not reached
+2025-04-11 23:37:32,812 | systemd.core.performance | CRITICAL | [perf] Kernel panic
+2025-04-11 23:37:32,812 | systemd.core.performance | CRITICAL | [perf] System target not reached
+2025-04-11 23:37:32,812 | systemd.core.performance | CRITICAL | [perf] System target not reached
+2025-04-11 23:37:32,814 | systemd.core.performance | CRITICAL | [perf] Kernel panic
+2025-04-11 23:37:32,814 | systemd.core.performance | CRITICAL | [perf] System target not reached
+2025-04-11 23:37:32,815 | systemd.core.performance | CRITICAL | [perf] Kernel panic
+2025-04-11 23:37:32,816 | systemd.core.performance | CRITICAL | [perf] Kernel panic
+2025-04-11 23:37:32,817 | systemd.core.performance | CRITICAL | [perf] Kernel panic
+2025-04-11 23:37:32,817 | systemd.core.performance | CRITICAL | [perf] System target not reached
+2025-04-11 23:37:32,818 | systemd.core.performance | CRITICAL | [perf] System target not reached
+2025-04-11 23:37:32,818 | systemd.core.performance | CRITICAL | [perf] Kernel panic

@@ -1,0 +1,12 @@
+2025-04-13 05:54:52,477 - INFO - Logging to a file!
+2025-04-13 05:54:52,478 - WARNING - Watch out! Disk space might be low.
+2025-04-13 06:00:01,630 - INFO - Logging to a file!
+2025-04-13 06:00:01,630 - file_logger - INFO - Logging to a file!
+2025-04-13 06:00:01,631 - WARNING - Watch out! Disk space might be low.
+2025-04-13 06:00:01,631 - file_logger - WARNING - Watch out! Disk space might be low.
+2025-04-13 06:03:32,819 - INFO - Logging to a file!
+2025-04-13 06:03:32,819 - file_logger - INFO - Logging to a file!
+2025-04-13 06:03:32,819 - file_logger - INFO - Logging to a file!
+2025-04-13 06:03:32,820 - WARNING - Watch out! Disk space might be low.
+2025-04-13 06:03:32,820 - file_logger - WARNING - Watch out! Disk space might be low.
+2025-04-13 06:03:32,820 - file_logger - WARNING - Watch out! Disk space might be low.

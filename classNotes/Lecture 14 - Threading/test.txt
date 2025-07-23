@@ -1,0 +1,39 @@
+Kristopher-Michael J. Powers
+
+San Dimas, CA 91773	Powers.Kristopher@gmail.com	(714) 451-9099 (Cell)
+
+Summary
+Agile-trained Systems Software Engineer with a master’s in computer engineering, specializing in robotics and embedded systems. Skilled in developing, supporting, and troubleshooting applications across various coding languages and environments. Proven ability to manage multiple large projects and lead teams to achieve goals with precise decision-making. Passion to nurture growth and development within all communities
+Engineering Experience
+Aevex - Sr. Flight Test Engineer	Palmdale, CA   Apr. 2024 to Present
+    • Lead the development of test plans and safety packages, ensuring compliance with USAF standards.
+    • Execute flight tests from planning through data analysis, delivering actionable insights and recommendations.
+    • Secure airworthiness ensuring test activities complete all regulatory requirements, achieving 100% compliance.
+    • Present briefings and reports to program leadership, keeping stakeholders informed on progress and outcomes.
+
+Cal Poly Pomona - Engineering Instructor	Pomona, CA   Jan. 2021 to Present
+    • Taught engineering classes such as Python, C++ and Engineering General Education. 
+    • Played a key role in student advising, offering guidance on course selection and career paths.
+    • Instructed with an all-questions welcome mentality ensuring each student feels comfortable with the material.
+    • Collaborate with colleagues on curriculum development and enhancements to align with industry standards.
+    • Developed and implemented innovative teaching methods to enhance student engagement and learning outcomes.
+
+Supernal - Software Systems Engineer 	Irvine, CA   Sep. 2022 to Jan. 2024
+    • Create and maintain detailed documentation of system designs, test procedures, and results within Doors.
+    • Collaborated in the design, development, and integrating phases of avionics systems, navigation, communication, and control systems. 
+    • Defined control system standards, response times, and Line Replaceable Units (LRU) fulfilling DO-160/178.
+    • Confirmed all aircraft sub-system requirements ensuring 100% tractability.
+    • Incorporated hardware and software to design high-reliability safety-critical systems for eVTOL aircraft.
+
+Northrop Grumman - Sr. Software Quality Engineer	Woodland Hills, CA    Oct. 2018 to Sep 2022
+    • Initiate Corrective Action Plans and work with suppliers, manufacturing, and engineering personnel to identify root cause and ensure robust corrective actions are implemented to fulfil DO-160/178 standards.
+    • Conducted software and hardware inspection, testing, verification, validation and tracking within Enovia.
+    • Implement process improvements, streamline activities, and devised automation for hardware-in-the-loop (HITL).
+    • Coordinate activities in flight and lab during all stages of development, integration, and software to satisfy all measures of reliability standards and requirements.
+
+Panasonic - Principal System Test Engineer 	Irvine, CA,   Jun. 2012 to Oct. 2018
+    • Employed diverse hardware and Linux based software for new and/or existing In Flight Entertainment (IFE) systems, functions and LRUs designed by the Development Engineering and the Software Development groups.
+    • Lead point of contact for all software development, integration, problem investigation, and regression testing.
+    • Coordinated activities for systems development, integration, test, and software/hardware release.
+    • Conducted root cause analyzes of system anomalies in hardware and software of the IFE.
+    • Interfaced closely with Customers and Customer Engineers to ensure Customer Requirements are met.

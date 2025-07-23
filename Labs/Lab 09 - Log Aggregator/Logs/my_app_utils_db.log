@@ -1,0 +1,10 @@
+2025-04-11 23:20:36,914 | my_app.utils.db | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,524 | my_app.utils.db | CRITICAL | Database corruption
+2025-04-11 23:23:41,527 | my_app.utils.db | CRITICAL | Database corruption
+2025-04-11 23:23:41,528 | my_app.utils.db | CRITICAL | System failure
+2025-04-11 23:23:41,529 | my_app.utils.db | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,531 | my_app.utils.db | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,536 | my_app.utils.db | CRITICAL | System failure
+2025-04-11 23:23:41,536 | my_app.utils.db | CRITICAL | Database corruption
+2025-04-11 23:23:41,536 | my_app.utils.db | CRITICAL | Disk failure detected
+2025-04-11 23:23:41,537 | my_app.utils.db | CRITICAL | Database corruption
